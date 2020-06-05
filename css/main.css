@@ -527,8 +527,9 @@ footer {
   width: 70%;
 
 }
-.footer__content > p {
+.phonenumber {
   color: var(--light-beige);
+  text-decoration: none;
 }
 
 /* MEDIA QUERIES FOR TABLET */
